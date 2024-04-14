@@ -1,7 +1,7 @@
 ## Bank Marketing Campaign
 - Predict client's term deposit subscription
 
-- Analysis using Tableau: [Analysis on Bank Marketing Data](https://public.tableau.com/app/profile/leong5910/viz/AnalysisonBankMarketingData/Story1)
+- Analysis done using Tableau: [Analysis on Bank Marketing Data](https://public.tableau.com/app/profile/leong5910/viz/AnalysisonBankMarketingData/Story1)
 
 - There are 2 notebooks
 	- `01_EDA_and_Data_Preprocessing.ipynb`
